@@ -1,0 +1,23 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "this is episode 2",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gufran30/namaste-react.git"
+  },
+  "author": "Gufran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gufran30/namaste-react/issues"
+  },
+  "homepage": "https://github.com/gufran30/namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
